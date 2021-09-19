@@ -6,6 +6,6 @@
   <img align="center" alt="Lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div><br>
-<img height="158em" src="https://github-readme-stats.vercel.app/api?username=luclucs&count_private=true&show_icons=true&theme=midnight-purple"/>
-<img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luclucs&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=luclucs&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luclucs&theme=midnight-purple"/>
 </div>
