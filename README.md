@@ -1,4 +1,4 @@
-## >>> print("Hello World!")
+## >>> console.log("Hello World!");
 ![Snake animation](https://github.com/luclucs/luclucs/blob/output/github-contribution-grid-snake.svg)
 <div style="display: inline_block">
   <img align="center" alt="Lu-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
