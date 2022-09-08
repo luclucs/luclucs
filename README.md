@@ -8,6 +8,5 @@
   <img align="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luclucs&count_private=true&show_icons=true&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luclucs&theme=midnight-purple"/>
 </div>
